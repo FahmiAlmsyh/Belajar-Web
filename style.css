@@ -201,7 +201,7 @@ header {
 }
 
 .bg-image {
-  background-image: url("/Users/fahmialamsyah/Documents/Belajar Web/615fb15189711.jpeg");
+  background-image: url("img/615fb15189711.jpeg");
 
   /* Add the blur effect */
   filter: blur(5px);
